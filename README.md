@@ -1,8 +1,10 @@
 # Drowning Detection 
 
 This project implements a real-time **drowning detection system** using **RF-DETR (Small)** —
- a lightweight object detection model.
-The goal is to support early detection and intervention in water safety environments such as pools, beaches, and aquatic facilities.
+ a lightweight object detection model.  
+ 
+The goal is to support early detection and intervention in water safety environments such as pools, beaches, and aquatic facilities.  
+
 
 ### The model is capable of detecting and classifying people in water as:
 - **Safe** | 1,933 images
