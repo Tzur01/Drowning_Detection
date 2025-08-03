@@ -10,9 +10,8 @@ The goal is to support early detection and intervention in water safety environm
 - **Safe** | 1,933 images
 - **Struggling** | 1,917 images
 - **Drowning** | 1,871 images
-
-
-**Total Training Set:** 2,721  
+  
+**Total Training Images:** 5,721  
 
 ### Check this out:  [click here](https://universe.roboflow.com/my-workspace-gich2/drowning-detection-vxucl-zxa4z/model/4) 
 
