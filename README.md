@@ -1,6 +1,18 @@
-# Drowning Detection
+# Drowning Detection 
 
-<img width="1109" height="621" alt="Image" src="https://github.com/user-attachments/assets/3f8cc61f-c176-4018-a520-38d03c774a62" />
+This project implements a real-time **drowning detection system** using **RF-DETR (Small)** —
+ a lightweight object detection model.
+
+### The model is capable of detecting and classifying people in water as:
+- **Safe** | 1,933 images
+- **Struggling** | 1,917 images
+- **Drowning** | 1,871 images
+
+
+**Total Training Set:** 2,721
+
+
+The goal is to support early detection and intervention in water safety environments such as pools, beaches, and aquatic facilities.
 
 
 ## Results
