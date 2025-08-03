@@ -1,4 +1,4 @@
-# Drowning Detection 
+# Drowning Detection Model
 
 This project implements a real-time **drowning detection system** using **RF-DETR (Small)** —
  a lightweight object detection model.  
